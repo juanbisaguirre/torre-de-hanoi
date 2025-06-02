@@ -1,7 +1,7 @@
 # torre-de-hanoi
 Juego de la torres de Hanoi, para practicar Recursividad, cien por ciento operativo
 
-*Elementos clave:
+Elementos clave:
 Selector de discos (<select id="diskCount">): Permite elegir entre 3 y 6 discos para jugar.
 
 Botones Iniciar y Reiniciar: Para comenzar una nueva partida o reiniciarla.
@@ -117,4 +117,3 @@ Se validan movimientos para evitar errores.
 
 Se muestra el progreso en tiempo real para motivar al jugador.
 
-**
